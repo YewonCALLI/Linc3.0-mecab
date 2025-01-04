@@ -17,7 +17,7 @@ This research project analyzes the relationship between entrepreneurial culture,
 ## Directory Structure
 ```
 ├── data/               
-│   ├── raw/           # Original university reports
+│   ├── raw/           # Original university reports (72 universities)
 │   └── processed/     # Preprocessed text data
 ├── notebooks/         
 │   ├── preprocessing.ipynb  # Text preprocessing steps
